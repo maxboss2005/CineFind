@@ -1,0 +1,7 @@
+{
+  "name": "CineFind",
+  "description": "Identify any movie from audio snippets using advanced AI fingerprinting. Discover where to stream, view trailers, and explore cinematic masterpieces.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
